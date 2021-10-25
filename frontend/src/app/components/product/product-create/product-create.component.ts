@@ -32,8 +32,6 @@ export class ProductCreateComponent implements OnInit {
       
     })
     
-
-
   }
 
   cancelProduct(): void{

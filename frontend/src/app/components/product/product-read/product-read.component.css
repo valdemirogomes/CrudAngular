@@ -1,0 +1,19 @@
+table{
+    width: 100%;
+    margin-top: 50px;
+}
+
+i.edit{
+    color: #FFC733;
+}
+
+i.delete{
+    color: #F96462;
+    margin-left: 20px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+

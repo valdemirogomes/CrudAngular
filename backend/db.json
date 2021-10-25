@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Bic Preta",
+      "name": "Caneta Bic",
       "price": 5.89
     },
     {
@@ -21,9 +21,24 @@
       "id": 4
     },
     {
-      "name": "Formulario",
-      "price": "1.50",
+      "name": "Coca-Cola ",
+      "price": "7.50",
       "id": 5
+    },
+    {
+      "name": "Mouse",
+      "price": "5.50",
+      "id": 6
+    },
+    {
+      "name": "Lapis Faber Castell",
+      "price": "10.50",
+      "id": 7
+    },
+    {
+      "name": "Caneta Azul",
+      "price": "130",
+      "id": 8
     }
   ]
 }
