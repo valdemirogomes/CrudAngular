@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta Bic",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000.89
-    },
-    {
       "id": 3,
       "name": "Samsung S20+",
       "price": 5000.89
@@ -36,8 +26,8 @@
       "id": 7
     },
     {
-      "name": "Caneta Azul",
-      "price": "130",
+      "name": "Manopla do infinito",
+      "price": "500,00",
       "id": 8
     }
   ]
