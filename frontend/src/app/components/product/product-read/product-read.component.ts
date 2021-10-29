@@ -28,17 +28,5 @@ export class ProductReadComponent implements OnInit {
   }
 
 
-  readName(): void{
-        
-    this.productService.readByName(this.product).subscribe(()=>{
-      this.productService.showMessage('Produto encontrado')
-      this.router.navigate(['/products'])
-      console.log(this.product)
-      console.log(this.product)
-    })
-  
-
-
-  }
   
 }

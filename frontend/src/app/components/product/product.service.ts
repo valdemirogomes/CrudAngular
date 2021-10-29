@@ -38,9 +38,9 @@ export class ProductService {
     return this.http.get<Product>(url)
   }
 
-  readByName(name: any): Observable<Product>{
-    const url = `${this.baseURL}/${name}`
-    return this.http.get<Product>(url)
+  delete(id: any): Observable<Product>{
+    const url = `${this.baseURL}/${id}`
+    return this.http.delete<Product>(url)
   }
 
   update(product: Product): Observable<Product>{
